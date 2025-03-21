@@ -81,15 +81,15 @@ body {
 }
 .social-link {
     color: white;
-    font-size: 28px; /* Tamaño de los íconos */
-    margin: 0 20px; /* Espaciado entre los íconos */
-    padding: 10px; /* Espaciado interno */
+    font-size: 28px; 
+    margin: 0 20px; 
+    padding: 10px; 
     transition: color 0.3s ease-in-out, transform 0.2s ease-in-out;
 }
 
 .social-link:hover {
-    color: #00aced; /* Color celeste al pasar el mouse */
-    transform: scale(1.2); /* Efecto de zoom */
+    color: #00aced; 
+    transform: scale(1.2); 
 }
 
 @media (max-width: 768px) {
@@ -112,7 +112,7 @@ body {
 
     .container p {
         font-size: 12px;
-        color: white;
+        color: white ;
     }
 
     .imagen-principal {
@@ -167,3 +167,4 @@ body {
     }
 
 }
+
